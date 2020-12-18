@@ -1,0 +1,16 @@
+PODS:
+  - StackPager (0.1.0)
+
+DEPENDENCIES:
+  - StackPager (from `../`)
+
+EXTERNAL SOURCES:
+  StackPager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StackPager: f89608cde917204500c5525b38df5e3c89bf438f
+
+PODFILE CHECKSUM: 35ec30aa0084416d7216ba813ee243f1a12a7839
+
+COCOAPODS: 1.10.0
