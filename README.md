@@ -7,7 +7,7 @@
 
 ## Storyboard
 
-![image](view1)
+![image](view1.png)
 
 ## Example
 
