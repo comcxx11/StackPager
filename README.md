@@ -5,13 +5,13 @@
 [![License](https://img.shields.io/cocoapods/l/StackPager.svg?style=flat)](https://cocoapods.org/pods/StackPager)
 [![Platform](https://img.shields.io/cocoapods/p/StackPager.svg?style=flat)](https://cocoapods.org/pods/StackPager)
 
-## Storyboard
-
-![image](view1.png)
-
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+![image](view1.png)
+
+![image](view2.png)
 
 ## Requirements
 
